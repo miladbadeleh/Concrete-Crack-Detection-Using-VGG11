@@ -4,14 +4,12 @@ This repository contains code for training and evaluating a VGG11 model for imag
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Architecture](#architecture)
+2. [DenseNet Architecture](#architecture)
 3. [Code Overview](#code-overview)
-4. [Dataset Preparation](#dataset-preparation)
-5. [Training the Model](#training-the-model)
-6. [Testing the Model](#testing-the-model)
-7. [Saving the Model](#saving-the-model)
-8. [Dependencies](#dependencies)
-9. [Usage](#usage)
+4. [Training and Evaluation](#training-and-evaluation)
+5. [Results](#results)
+6. [Usage](#usage)
+7. [Dependencies](#dependencies)
 
 ---
 
